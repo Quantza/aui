@@ -1,4 +1,4 @@
-### ArchLinux install scripts - created by helmuthdu
+### Originally created by 'helmuthdu'
 
 # Archlinux U Install
 
