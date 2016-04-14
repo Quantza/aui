@@ -1,4 +1,4 @@
-### Project no longer maintained
+### ArchLinux install scripts - created by helmuthdu
 
 # Archlinux U Install
 
@@ -70,4 +70,4 @@ You can try it first with a `virtualbox`
 - Install and configure Web Servers
 - Many More...
 
-If you like my work, please consider a small Paypal donation at helmuthdu@gmail.com :)
+To donate via Paypal, to the original creator, send to: helmuthdu@gmail.com :)
