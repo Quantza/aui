@@ -14,12 +14,12 @@ You can try it first with a `virtualbox`
 ## How to get it
 ### With git
 - Get list of packages and install git: `pacman -Sy git`
-- get the script: `git clone git://github.com/helmuthdu/aui`
+- get the script: `git clone git://github.com/Quantza/aui`
 
 ### Without git
-- get the script: ` wget https://github.com/helmuthdu/aui/tarball/master -O - | tar xz`
-    - an alternate URL (for less typing) is ` wget http://bit.ly/NoUPC6 -O - | tar xz`
-    - super short `wget ow.ly/wnFgh -O aui.zip`
+- get the script: ` wget https://github.com/Quantza/aui/tarball/master -O - | tar xz`
+    - an alternate URL (for less typing) is ` wget http://bit.ly/1RVxXh3 -O - | tar xz`
+    - super short `wget http://ow.ly/10Eq9c -O aui.tar.gz`
 
 ## How to use
 - FIFO [system base]: `cd <dir> && ./fifo`
